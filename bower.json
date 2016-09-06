@@ -1,0 +1,24 @@
+{
+  "name": "linGao",
+  "authors": [
+    "masterfish2015 <925341256@qq.com>"
+  ],
+  "description": "穿越小说",
+  "main": "index.html",
+  "keywords": [
+    "穿越"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
